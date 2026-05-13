@@ -1,0 +1,98 @@
+.main-image > .wp-block-gallery {
+  max-width: 750px;
+  width: 100%;
+  padding: 15px;
+}
+.main-image > .wp-block-gallery .wp-block-image:first-of-type {
+  width: 400px !important;
+  height: 400px !important;
+  flex: 1 1 100%;
+  max-width: 100%;
+  opacity: 1 !important;
+  transform: none !important;
+}
+.main-image > .wp-block-gallery .wp-block-image {
+  width: 75px !important;
+  height: 75px !important;
+  opacity: 0.6 !important;
+  cursor: pointer;
+}
+.main-image > .wp-block-gallery .wp-block-image:hover {
+  opacity: 1 !important;
+  transform: scale(1.04);
+  transition: all 330ms ease-in;
+  cursor: default;
+}
+
+/* public style imag gallery */
+
+.wp-block-image {
+  width: 250px !important;
+  height: 250px !important;
+  cursor: pointer;
+  transition: all 330ms ease-in;
+}
+.wp-block-image:hover {
+  opacity: 1 !important;
+  transform: scale(1.01);
+  cursor: default;
+  opacity: 0.6 !important;
+}
+
+/* Media Media Text */
+
+.wp-block-media-text {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+@media screen and (max-width: 767px) {
+  .wp-block-media-text .wp-block-media-text__content {
+    padding-top: 2rem !important;
+  }
+  /* #baguetteBox-overlay .full-image img {
+    width: 80rem !important;
+    height: 25rem !important;
+  } */
+}
+
+@media screen and (min-width: 1024px) {
+  .wp-block-media-text {
+    grid-template-columns: 1fr !important;
+  }
+  .wp-block-media-text .wp-block-media-text__media {
+    width: 600px !important;
+    height: 400px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .wp-block-media-text {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+  }
+  /* #baguetteBox-overlay .full-image img {
+    width: 80rem !important;
+    height: auto !important;
+  } */
+}
+.wp-block-media-text .wp-block-media-text__media {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.wp-block-media-text .wp-block-media-text__media img {
+  border-radius: 10px;
+}
+
+#baguetteBox-overlay .full-image img {
+    filter: brightness(1);
+    transition: transform 0.3s ease, filter 0.3s ease;
+    cursor: zoom-in;
+    transform-origin: center center;
+}
+#baguetteBox-overlay .full-image img.zoomed {
+    transform: scale(2) translate(0px, 0px);
+    cursor: grab;
+    filter: brightness(1.1);
+}
+#baguetteBox-overlay .full-image img.zoomed:active {
+    cursor: grabbing;
+}
+

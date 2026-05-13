@@ -1,0 +1,18 @@
+[2025-04-15 21:56:50 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-04-15 21:56:50 : INFO] - Processing task with ID : 725, and type 'smush' 
+[2025-04-15 21:56:50 : INFO] - Re_Smush_It_Task - attachment ID : 1299, started on : April 15, 2025 09:56:50 
+[2025-04-15 21:56:50 : INFO] - File: DIEZAUNPROFIS-LOGO-1.jpg, Compression quality: 60 
+[2025-04-15 21:56:51 : INFO] - Backing up the original image - 2025/04/DIEZAUNPROFIS-LOGO-1-updraft-pre-smush-original.jpg 
+[2025-04-15 21:56:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-04-15 21:56:51 : INFO] - Successfully optimized the image - /home/.sites/803/site9057756/web/wp-content/uploads/2025/04/DIEZAUNPROFIS-LOGO-1.jpg.The file was compressed from 42.96 KB to 32.09 KB, saving 25.28 percent, using WP-Optimize 
+[2025-04-15 21:56:51 : INFO] - Completed processing task with ID : 725, and type 'smush' 
+[2025-04-16 01:27:16 : INFO] - Pruning the smush log file 
+[2025-04-17 23:33:46 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-04-17 23:33:46 : INFO] - Processing task with ID : 854, and type 'smush' 
+[2025-04-17 23:33:46 : INFO] - Re_Smush_It_Task - attachment ID : 1330, started on : April 17, 2025 11:33:46 
+[2025-04-17 23:33:46 : INFO] - File: DIE-ZAUN-PROFIS-LOGO.jpg, Compression quality: 92 
+[2025-04-17 23:33:47 : INFO] - Backing up the original image - 2025/04/DIE-ZAUN-PROFIS-LOGO-updraft-pre-smush-original.jpg 
+[2025-04-17 23:33:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-04-17 23:33:47 : INFO] - Successfully optimized the image - /home/.sites/803/site9057756/web/wp-content/uploads/2025/04/DIE-ZAUN-PROFIS-LOGO.jpg.The file was compressed from 30.47 KB to 27.92 KB, saving 8.37 percent, using WP-Optimize 
+[2025-04-17 23:33:47 : INFO] - Completed processing task with ID : 854, and type 'smush' 
+[2025-04-18 01:54:13 : INFO] - Pruning the smush log file 

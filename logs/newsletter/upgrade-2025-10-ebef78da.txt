@@ -1,0 +1,80 @@
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 69,8 MB/640 MB -  > Start upgrade from 8.9.4
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Deleting settings backup newsletter_backup_8.8.1
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,4 MB/640 MB -  > Backing up options of 8.9.4
+08-10-2025 00:47:09 - INFO  - 8.9.9 - 73,6 MB/640 MB -  > End
+16-10-2025 09:42:29 - INFO  - 9.0.4 - 75,2 MB/640 MB - Hareth > Start upgrade from 8.9.9
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Deleting settings backup newsletter_backup_8.8.2
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,2 MB/640 MB - Hareth > Backing up options of 8.9.9
+16-10-2025 09:42:30 - INFO  - 9.0.4 - 78,4 MB/640 MB - Hareth > End

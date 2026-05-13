@@ -1,0 +1,251 @@
+# Translation of Plugins - Mixed Media Gallery Blocks - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Mixed Media Gallery Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-08 22:43:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Mixed Media Gallery Blocks - Stable (latest release)\n"
+
+#: plugins/init.php:314
+msgid "FEATURES & FAQ"
+msgstr "MERKMALE & FAQ"
+
+#: plugins/init.php:265
+msgid "Lightbox for native WordPress Gallery"
+msgstr "Lightbox für WordPress-Galerie"
+
+#: plugins/init.php:158
+msgid "Albums Preset"
+msgstr "Alben Voreinstellung"
+
+#: plugin.php:444 dist/blocks.build.js:1
+msgid "SimpLy Tags"
+msgstr "SimpLy Schlagwörter"
+
+#: blocks/simply_post.php:648
+msgid "SimpLy Gallery permalinks"
+msgstr "SimpLy Gallery Permalinks"
+
+#: blocks/simply_post.php:582
+msgid "If you like, you may enter custom Archive page slug for your SimpLy galleries. For example, using <code>simply_galleries</code> would make your galleries archive links like <code>%ssimply_galleries/</code>. This setting affects gallery URLs only."
+msgstr "Wenn du möchtest, kannst du eine benutzerdefinierte Archivseiten-Titelform für deine SimpLy-Galerien eingeben. Wenn du beispielsweise <code>simply_galleries</code> verwendest, werden deine Galerien-Archiv-Links wie <code>%ssimply_galleries/</code> aussehen. Diese Einstellung wirkt sich nur auf Galerie-URLs aus."
+
+#: blocks/simply_post.php:567
+msgid "If you like, you may enter custom structures for your SimpLy gallery URLs here. For example, using <code>pgc_simply_gallery</code> would make your gallery links like <code>%spgc_simply_gallery/simply-gallery/</code>. This setting affects gallery URLs only."
+msgstr "Wenn du möchtest, kannst du hier benutzerdefinierte Strukturen für deine SimpLy-Galerie-URLs eingeben. Wenn du beispielsweise <code>pgc_simply_gallery</code> verwendest, werden deine Galerie-Links wie <code>%spgc_simply_gallery/simply-gallery/</code> aussehen. Diese Einstellung wirkt sich nur auf Galerie-URLs aus."
+
+#: plugin.php:205
+msgid "Full Size"
+msgstr "Volle Größe"
+
+#: plugin.php:204
+msgid "Large"
+msgstr "Groß"
+
+#: plugin.php:203
+msgid "Medium"
+msgstr "Mittelgroß"
+
+#: plugin.php:202
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: plugins/init.php:213
+msgid "Blocks Presets"
+msgstr "Blöcke-Voreinstellungen"
+
+#: plugins/init.php:213
+msgid "Blocks Presets - FREE"
+msgstr "Blöcke-Voreinstellungen – KOSTENLOS"
+
+#: blocks/simply_widget.php:71
+msgid "Choose Gallery"
+msgstr "Wähle Galerie"
+
+#: blocks/simply_widget.php:11
+msgid "Place a SimpLy Gallery into a widgetized area."
+msgstr "Platziere eine SimpLy-Galerie in einem Bereich mit Widgets."
+
+#: blocks/simply_posts_elementor_widget.php:77
+msgid "Select Gallery"
+msgstr "Galerie auswählen"
+
+#: blocks/simply_posts_elementor_widget.php:69
+msgid "General"
+msgstr "Allgemein "
+
+#: blocks/simply_post.php:887 blocks/dist/blocks/blocks.build.js:1
+#: dist/albums.page.build.js:1
+msgid "Date"
+msgstr "Datum"
+
+#: blocks/simply_post.php:885 blocks/simply_widget.php:64
+#: blocks/dist/blocks/blocks.build.js:1 dist/albums.page.build.js:1
+#: dist/blocks.build.js:1 dist/lightbox.page.build.js:1 dist/page.build.js:1
+#: dist/plugin.build.js:1
+msgid "Title"
+msgstr "Titel"
+
+#: blocks/simply_post.php:884
+msgid "Cover"
+msgstr "Cover"
+
+#: blocks/simply_post.php:862 blocks/simply_post.php:886
+#: blocks/dist/post.editor.build.js:1
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: blocks/simply_post.php:861
+msgid "Name"
+msgstr "Name"
+
+#: blocks/simply_post.php:852
+msgid "The SimpLy Gallery Directory allows you to intelligently structure your media content. It will also allow you to easily manage the content of galleries that need frequent updates. Galleries from this directory can be easily used as WordPress Widgets, as well as added to third-party Page Builders (such as Elementor and others that support the Shortcodes system)."
+msgstr "Das SimpLy Gallery-Verzeichnis ermöglicht dir eine intelligente Strukturierung deiner Medieninhalte. Es erlaubt dir auch, den Inhalt von Galerien, die häufig aktualisiert werden müssen, einfach zu verwalten. Galerien aus diesem Verzeichnis können leicht als WordPress-Widgets verwendet werden, sowie zu Page-Buildern von Drittanbietern (wie Elementor und andere die das Shortcode-System unterstützen) hinzugefügt werden."
+
+#: blocks/simply_post.php:838
+msgid "You are using the legacy \"Classic Editor\" page builder. This makes visiting this page meaningless. Time to step forward and try the Block Editor!"
+msgstr "Du verwendest den veralteten Page-Builder „klassischer Editor“. Das macht den Besuch dieser Seite sinnlos. Es ist Zeit, den Block-Editor auszuprobieren!"
+
+#: blocks/simply_post.php:540
+msgid "Show All"
+msgstr "Alle anzeigen"
+
+#: blocks/simply_post.php:490
+msgid "Galleries list"
+msgstr "Galerien-Liste"
+
+#: blocks/simply_post.php:489
+msgid "Galleries list navigation"
+msgstr "Navigation der Galerien-Liste"
+
+#: blocks/simply_post.php:488
+msgid "Filter Galleries list"
+msgstr "Galerien-Liste filtern"
+
+#: blocks/simply_post.php:487
+msgid "Parent Gallery"
+msgstr "Übergeordnete Galerie"
+
+#: blocks/simply_post.php:486
+msgid "No Galleries Found in Trash"
+msgstr "Keine Galerien im Papierkorb gefunden"
+
+#: blocks/simply_post.php:485
+msgid "No Galleries Found"
+msgstr "Keine Galerien gefunden"
+
+#: blocks/simply_post.php:484
+msgid "Search SimpLy Gallery"
+msgstr "SimpLy-Galerie suchen"
+
+#: blocks/simply_post.php:483
+msgid "View SimpLy Gallery"
+msgstr "SimpLy-Galerie anzeigen"
+
+#: blocks/simply_post.php:482 blocks/dist/dashboard.widget.build.js:1
+msgid "Edit Gallery"
+msgstr "Galerie bearbeiten"
+
+#: blocks/simply_post.php:481
+msgid "Add New SimpLy Gallery"
+msgstr "Neue SimpLy-Galerie hinzufügen"
+
+#: blocks/simply_post.php:480
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: blocks/simply_post.php:479
+msgid "Galleries"
+msgstr "Galerien"
+
+#: blocks/simply_post.php:477 blocks/simply_post.php:478
+msgid "SimpLy Gallery"
+msgstr "SimpLy Gallery"
+
+#: blocks/simply_post.php:476
+msgctxt "Post Type General Name"
+msgid "SimpLy Galleries"
+msgstr "SimpLy Galleries"
+
+#: blocks/simply_post.php:449
+msgid "Albums"
+msgstr "Alben"
+
+#: blocks/simply_post.php:448
+msgid "New Album Name"
+msgstr "Name des neuen Albums"
+
+#: blocks/simply_post.php:447
+msgid "Add New Album"
+msgstr "Neues Album hinzufügen"
+
+#: blocks/simply_post.php:446
+msgid "Update Album"
+msgstr "Album aktualisieren"
+
+#: blocks/simply_post.php:445
+msgid "Edit Album"
+msgstr "Album editieren"
+
+#: blocks/simply_post.php:444
+msgid "Parent Album:"
+msgstr "Übergeordnetes Album:"
+
+#: blocks/simply_post.php:443
+msgid "Parent Album"
+msgstr "Übergeordnetes Album"
+
+#: blocks/simply_post.php:442
+msgid "View SunoLy Album"
+msgstr "SunoLy-Album anzeigen"
+
+#: blocks/simply_post.php:441
+msgid "All SimpLy Albums"
+msgstr "Alle SimpLy Alben"
+
+#: blocks/simply_post.php:440
+msgid "Search Albums"
+msgstr "Album suchen"
+
+#: blocks/simply_post.php:439
+msgid "Album"
+msgstr "Album"
+
+#: blocks/simply_post.php:438
+msgid "SimpLy Albums"
+msgstr "SimpLy Alben"
+
+#: blocks/simply_post.php:222
+msgid "SimpLy Album EMPTY"
+msgstr "SimpLy Album LEER"
+
+#: blocks/simply_dashboard_widget.php:48 blocks/simply_widget.php:9
+#: blocks/simply_widget.php:69
+msgid "Gallery"
+msgstr "Galerie"
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://blockslib.com/"
+msgstr "https://blockslib.com/"
+
+#. Author of the plugin
+#: plugin.php
+msgid "GalleryCreator"
+msgstr "GalleryCreator"
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://simplygallery.co/"
+msgstr "https://simplygallery.co/"
+
+#. Plugin Name of the plugin
+#: plugin.php
+msgid "SimpLy Gallery Block & Lightbox"
+msgstr "SimpLy Gallery Block & Lightbox"
